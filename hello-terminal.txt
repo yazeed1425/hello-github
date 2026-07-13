@@ -1,0 +1,5 @@
+MINGW64_NT-10.0-26200
+hello camp
+Yazeed
+/c/Users/Yazeed
+git version 2.55.0.windows.2
